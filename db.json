@@ -1,1 +1,25 @@
-{}
+{
+    "likes": [
+      {
+        "postId": "201811189",
+        "liked": true
+      },
+      {
+        "postId": "201811190",
+        "liked": false
+      },
+      {
+        "postId": "201811191",
+        "liked": true
+      },
+      {
+        "postId": "201811192",
+        "liked": false
+      },
+      {
+        "postId": "201811193",
+        "liked": true
+      }
+    ]
+  }
+  
